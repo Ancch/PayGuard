@@ -1,0 +1,11 @@
+{
+  "seed": 42,
+  "num_records": 30000,
+  "num_accounts": 800,
+  "fraud_ratio": 0.3,
+  "fraud_distribution": {
+    "refund_collect": 0.3333333333333333,
+    "qr_mismatch": 0.3333333333333333,
+    "mule_activity": 0.3333333333333333
+  }
+}
